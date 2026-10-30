@@ -1,0 +1,72 @@
+nombre,apellido,email,edad,genero,uuid,presente
+mane,lincocheo,lincocheo.13.hueitra@gmail.com,26,femenino,ad336901-cdfa-4fe2-bd92-aa0078422cda,FALSE
+katha,vielma,kathitavielma19@gmail.com,26,femenino,543a566d-aecb-4c53-a932-bf117a20762f,FALSE
+Sebastián Ignacio,Sobarzo Ortiz,sebastiansobarzo86@gmail.com,23,masculino,9f9c688b-4b2c-4ae0-b2d1-b1c9c6b2ba80,FALSE
+Javiera,Méndez,javieramendezr2001@gmail.com,23,femenino,b7b548f8-cd4b-40b6-991c-557f39ea0924,FALSE
+Hans,Delgado,matih351@gmail.com,25,masculino,e3bd1367-2b66-4a76-8465-fa95bfa014a0,FALSE
+Nayeli,Figueroa,1232nayelifigueroa@gmail.com,19,femenino,04452c3a-7613-4b42-a3e6-ac2b737e059d,FALSE
+fernando,albazete,epicardo7u7@gmail.com,22,masculino,e3f49006-2ee6-4666-aa67-33aa2553d496,FALSE
+Carolina,Erber,lincocheo.13.hueitra@gmail.com,55,femenino,a3ca322b-52ab-46e9-9538-333dfe40b923,FALSE
+Mikaela,Opitz,miki.opitz@gmail.com,24,femenino,619e9869-e0f0-4197-a510-fd18d1764f22,FALSE
+Claire,Amiel Rivero,claiireamiiel@gmail.com,23,femenino,fe9b695c-e613-439d-9cc0-8102c4eca38d,FALSE
+Camila,Cárdenas,camila.cardenas@uach.cl,45,femenino,6829d0aa-6387-485e-99ff-e5cb3b89e17f,FALSE
+Claudio,Valdés,cvaldes@uach.cl,55,masculino,ecc97805-2c7a-4050-9951-6674e52be982,FALSE
+Luis,Cárcamo,lcarcamo@uach,48,masculino,46c54e4a-3494-4e30-bf1c-c3d7851de06a,FALSE
+Paula,Flores,paula.flores@ufrontera.cl,42,femenino,c789faa3-da52-456e-b7b8-fd03460efbf2,FALSE
+Juana,Lizaso,juanalizaso@gmail.com,42,femenino,a01fcc97-fdf8-40a5-96cf-a72f7cf8315e,FALSE
+Carolina,Schwerter,carolina.schwerter@apcregiondelosrios.cl,42,femenino,45a080c8-f73a-4ce8-80d6-bfcf8922dd68,FALSE
+Susana,Muñoz,contactosusanabigail@gmail.com,32,prefiero no decirlo,ba98e13e-547a-48dd-b8a7-77b70ee3720d,FALSE
+Álvaro,Frías del pino,alvaro.frias@apcregiondelosrios.cl,45,masculino,b6c8493f-1300-4b6d-84e4-2179879e0fe8,FALSE
+Eric,Kleinsteuber,eric.kleinsteuber@apcregiondelosrios.cl,42,masculino,f18677b6-3b85-44f7-a30d-ce88610b1f49,FALSE
+belén,Ponce,belen.555.ponce@gmail.com,23,femenino,7128bfd1-821a-42ee-b25e-1262713f0a24,FALSE
+Valentina,Nielsen,valentinanielsen4@gmail.com,26,femenino,3c66dfd7-5d97-477f-a220-dfadcc8c0980,FALSE
+Hugo,Navarro,Hugo.navarro@apcregiondelosrios.cl,45,masculino,931bcba3-51c2-46ca-9741-09c804904c55,FALSE
+Catalina,Miranda,catalinamirandasaavedra@gmail.com,20,femenino,1a69c7fa-8fd0-4a9b-983d-ad6f33d80b92,FALSE
+Martin,Cubillos Miño,martincubillos39@gmail.com,21,masculino,8feae4c7-4970-4f51-b6bb-c71fd58a0952,FALSE
+Ruth,Belmar,ruth.belmar@uach.cl,33,femenino,a7e7cd5e-9941-4335-824a-d8f05f6dccd8,FALSE
+José,Cariman,jo.m.cariman@gmail.com,23,masculino,f8feced6-6cb4-42e9-844d-d82a442e933a,FALSE
+Ursula,Cariman,ursulanalia@gmail.com,46,femenino,d3607010-156b-4ce5-9bb3-33aee3bdb239,FALSE
+Vicente,Alves Obando,vicentealves@hotmail.es,23,masculino,79f0d2f3-4249-4820-a924-8fde142a74a1,FALSE
+Macarena,Teke,makateke77@gmail.com,46,femenino,98f4dced-748d-4de3-857a-fcb11e261e1e,FALSE
+maria lorena,vega,valgonzalezj230@gmail.com,40,femenino,cfd83a4c-a3a1-4c33-b538-7154b5100337,FALSE
+francisco,gonzalez,francisco.gonzalez0356737@gmail.com,58,masculino,41f63335-d1da-47c9-a2e1-4f50f174a52e,FALSE
+Camila,Eguiluz,camila.eguiluz@alumnos.uach.cl,22,femenino,cd21e98d-84ee-4512-87bc-24da560021e5,FALSE
+Marianela,U. Liempi,nene14xd@gmail.com,25,no binario,8989a4ad-c73e-4b6c-9684-870238f3463f,FALSE
+Consuelo,Matamala Barría,consuimbarria@gmail.com,24,femenino,ba64b60e-6cc5-453c-bac4-a6fa85efd865,FALSE
+Andrea,Barría Aguilera,andreabarriaaguilera@gmail.com,56,femenino,6b5090dd-b584-49bc-b861-31bd4f5fcdc1,FALSE
+Claudia,Barría Aguilera,andreabarriaaguilera@gmail.com,57,femenino,e59028b1-0c0a-4349-a338-aee24d9beb72,FALSE
+Cristóbal,Quiroz Navarro,cristobalquiroz.cqn@gmail.com,28,masculino,319dcf26-e048-4c83-8aba-b80bf046a9d8,FALSE
+Maria,Henriquez,maria.mehenriquez@gmail.com,60,femenino,e9caa4d1-94d6-48a0-93ab-8b92ed5bf1e5,FALSE
+Catalina,Sepúlveda,catuta20@gmail.com,22,femenino,6430d1d1-2a14-40eb-895d-14570b1411c1,FALSE
+Valentina,Miles Robledo,valentinarobledomiles@gmail.com,27,femenino,409bd299-859a-4917-a5a8-bf3cb8843856,FALSE
+Borja,Valdés,bvaldessegovia@gmail.com,19,masculino,5c6100bb-b0a9-4b96-8d48-29cf0b4f25d4,FALSE
+Esperanza,Treuquil,ecarrenov07@gmail.com,19,femenino,ebf21cc9-7291-482b-951a-fd57e5d7d48b,FALSE
+Pedro,Morales,pedromoralestureo2006@gmail.com,20,masculino,3eca2675-3a84-49b7-a77c-c15f54c679fb,FALSE
+Daniela,Fuentealba,daniela.fuentealba.rail@gmail.com,25,femenino,5618f827-1b6b-487c-a9be-dcdcefee1892,FALSE
+Sofia,Astorga,sofia.astorga.castillo@gmail.com,21,femenino,427b03c7-9f83-45b9-b01f-ce83634d18d2,FALSE
+Josefa,Valenzuela,josefavdlr@outlook.com,24,femenino,de7db43a-21b4-4575-aeeb-241fcb52d0d7,FALSE
+Zahajaira,Duran,zahajairaduran28@gmail.com,23,femenino,0491bbdb-1418-4820-be15-9f1e0300c51b,FALSE
+Martina,Burgos,consuimbarria@gmail.com,23,femenino,63890498-de10-46f0-b977-577ef6b20ada,FALSE
+Pilar,Jara,pilarjara.terapias@gmail.com,36,femenino,61307733-32ef-4503-8e83-519a196c30c1,FALSE
+Belén,Vila,belenvilaossa@gmail.com,20,femenino,c966c297-a989-48dd-93f7-ac0dfdbbeed5,FALSE
+florencia,Contreras,floantocontreras2004@gmail.com,22,femenino,891321da-29cc-4242-8ddd-155f8da147e0,FALSE
+Carlaly,Roberts,carlaly0902@gmail.com,23,femenino,03e6d851-4e3a-4f03-a5a0-7479931e7d6c,FALSE
+Catalina,Ramírez Calfunao,ramirezcatalina2003@gmail.com,23,femenino,44a5507e-4aab-492a-849a-7f207f351a91,FALSE
+Osmarly,Montoya,montoyaosmarly@gmail.com,35,femenino,5567ef02-9c3e-4aaa-85f4-a132af60b59d,FALSE
+Doris,Rodríguez,fran.fbqr@gmail.com,46,femenino,a44bd035-6efc-4577-af2c-eb3e0ce52c3b,FALSE
+Francisco,Gacitua,fran.fbqr@gmail.com,25,masculino,c4e3eac3-fe11-4784-9822-36169c55e88f,FALSE
+Karen,Alfaro,karen.alfaro@uach.cl,46,femenino,60500500-5eb0-4a57-9d0e-a5091a5810f8,FALSE
+Valentina,Rivas,belen.rivas.456@gmail.com,23,femenino,4070bb49-ee60-42a5-a275-5ce937b34f60,FALSE
+Rodrigo,Moulian,rmoulian@uach.cl,58,masculino,5c46f55b-1b62-4d45-9cdd-59f73aa89856,FALSE
+Paola,Rodríguez,fran.bqr@gmail.com,48,femenino,0c76960b-1c2a-4d6b-b664-e8affbb53f91,FALSE
+Millaray,Burgos,mburgosnancucheo@gmail.com,21,femenino,439ba9ec-e03a-4df9-9363-ac0b47045248,FALSE
+Valentina,Nielsen,valentina.nielsen@alumnos.uach.cl,26,femenino,05fbb673-9b71-4c2d-9252-ec95370eff27,FALSE
+Valentina,González,valentinaa.gff@gmail.com,22,femenino,65172253-93a3-4e6b-95df-890d2a7392ad,FALSE
+Fernanda,Norambuena,fernanda.n0rambuena2@gmail.com,21,femenino,d9184fd8-5171-4533-a0b4-b7d0d42c5e12,FALSE
+Elliat Alexander,Muñoz Jofre,elliatxy@gmail.com,21,masculino,19b8b73b-5cd6-4c75-a407-da7849462da2,FALSE
+Simon,Valdés,sf.valdesa@gmail.com,21,masculino,55ec776c-6ff4-453e-9b70-c8ef4fa06d30,FALSE
+Samantta,Bello,samanttaruiz935@gmail.com,19,femenino,7c1a861a-00ad-47ba-947e-9fab65bc0375,FALSE
+Alejandro,Pozo,alejandro.pozo@alumnos.uach.cl,22,masculino,495d77bd-4e7f-4794-abeb-b9716711c817,FALSE
+Felipe,Montgomery,montgomeryfelipe@gmail.com,22,masculino,195ba811-0a41-49f5-a689-0319ef54370f,FALSE
+Gustavo,Scheihing,scheigust@gmail.com,26,masculino,cbf784eb-7d90-4c0c-8a25-2bcd568e7ece,FALSE
+Felipe,Montgomery,montgomeryfelipe@gmail.com,22,masculino,0ad3e008-9498-47cf-8d76-c7bf99630a24,FALSE

@@ -1,0 +1,6 @@
+node_modules/
+.env
+dist/
+data/enviados.json
+data/participantes.json
+data/test.csv
